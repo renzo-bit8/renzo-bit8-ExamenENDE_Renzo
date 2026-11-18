@@ -1,0 +1,9 @@
+package Examen;
+
+public class libreria
+ {
+
+public static void main(string[] args){
+
+	}
+}
